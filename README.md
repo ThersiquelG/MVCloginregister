@@ -1,3 +1,3 @@
 # MVCloginregister
 
-Project done with the follow tutorial https://krazytech.com/programs/java-registration-page-using-servlet-mysql-mvc 
+Project done with the following tutorial https://krazytech.com/programs/java-registration-page-using-servlet-mysql-mvc 
